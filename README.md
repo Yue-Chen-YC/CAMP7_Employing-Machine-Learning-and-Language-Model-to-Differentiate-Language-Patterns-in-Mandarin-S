@@ -21,6 +21,10 @@ Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of
 
 Baird, Gillian, and Courtenay Frazier Norbury. "Social (pragmatic) communication disorders and autism spectrum disorder." Archives of Disease in Childhood 101.8 (2016): 745-751.
 
+Rice, Mabel L., et al. "Mean length of utterance levels in 6-month intervals for children 3 to 9 years with and without language impairments." (2010).
+
+Sandbank, Micheal, and Paul Yoder. "The association between parental mean length of utterance and language outcomes in children with disabilities: A correlational meta-analysis." American Journal of Speech-Language Pathology 25.2 (2016): 240-251.
+
 Su, Y., Naigles, L. R., & Su, L. Y. (2018). Uneven expressive language development in Mandarin-exposed preschool children with ASD: Comparing vocabulary, grammar, and the decontextualized use of language via the PCDI-Toddler Form. Journal of autism and developmental disorders, 48(10), 3432-3448.
 
 Zhou, P., Crain, S., Gao, L., Tang, Y., & Jia, M. (2015). The use of grammatical morphemes by Mandarin-speaking children with high functioning autism. Journal of Autism and Developmental Disorders, 45, 1428-1436.
