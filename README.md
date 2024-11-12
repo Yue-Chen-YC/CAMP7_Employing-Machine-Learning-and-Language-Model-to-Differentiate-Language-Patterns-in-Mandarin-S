@@ -20,3 +20,6 @@ Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of
 Su, Y., Naigles, L. R., & Su, L. Y. (2018). Uneven expressive language development in Mandarin-exposed preschool children with ASD: Comparing vocabulary, grammar, and the decontextualized use of language via the PCDI-Toddler Form. Journal of autism and developmental disorders, 48(10), 3432-3448.
 
 Zhou, P., Crain, S., Gao, L., Tang, Y., & Jia, M. (2015). The use of grammatical morphemes by Mandarin-speaking children with high functioning autism. Journal of Autism and Developmental Disorders, 45, 1428-1436.
+
+## Acknowledgments
+We are deeply grateful to our colleagues and calibrators: Jingyao Liu, Xuening Zhang, Yuqing Liu, and Jiaqi Nie. We are also grateful to Dr. Elsi Kaiser and Dr. Zuzanna Fuchs from USC, for their invaluable suggestions and comments. The Research grants awarded to Ziyin Mai: “Input and experience in early trilingual development”, RGC/GRF, 2021-2024; “Input and caretaker proficiency in early bilingual development: mothers, helpers and toddlers ”, RGC/ECS, 2023-2025.
