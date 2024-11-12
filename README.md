@@ -15,7 +15,11 @@ Chen, Y., Mai, Z., Chen, Y., (2024, November). Employing Machine Learning and La
 ## References
 ASDBank Mandarin Shanghai Corpus. [Online]. Available: https://doi.org/10.21415/T5HW46
 
+Conneau, A. "Unsupervised cross-lingual representation learning at scale." arXiv preprint arXiv:1911.02116 (2019).
+
 Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
+
+Baird, Gillian, and Courtenay Frazier Norbury. "Social (pragmatic) communication disorders and autism spectrum disorder." Archives of Disease in Childhood 101.8 (2016): 745-751.
 
 Su, Y., Naigles, L. R., & Su, L. Y. (2018). Uneven expressive language development in Mandarin-exposed preschool children with ASD: Comparing vocabulary, grammar, and the decontextualized use of language via the PCDI-Toddler Form. Journal of autism and developmental disorders, 48(10), 3432-3448.
 
